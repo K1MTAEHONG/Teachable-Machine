@@ -1,4 +1,5 @@
 # Teachable-Machine
 
-https://user-images.githubusercontent.com/129834529/232969290-7c63c71f-0c1b-4297-82a3-095a295dcd78.mp4
 
+
+![result_2023-04-19_13-02-23_AdobeExpress](https://user-images.githubusercontent.com/129834529/232974508-5d1cef41-7789-4300-b0d9-f2680328b2c2.gif)
