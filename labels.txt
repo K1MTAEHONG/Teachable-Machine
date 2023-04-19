@@ -1,0 +1,4 @@
+0 book
+1 case
+2 key
+3 pen
